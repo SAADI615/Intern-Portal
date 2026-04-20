@@ -18,21 +18,9 @@ InternPortal is a web application where mentors assign projects and interns subm
 
 ---
 
-## Setup Instructions
+## Website Link
+https://internportal.infinityfreeapp.com/
 
-1. **Move the project to XAMPP `htdocs`**:  
-   - Locate your XAMPP installation folder (e.g., `C:\xampp\htdocs`)  
-   - Copy or move your `internportal` project folder into `htdocs`  
-   - Resulting path: `C:\xampp\htdocs\internportal`
-
-2. **Start XAMPP** and turn on **Apache** and **MySQL**.
-
-3. **Create the database**:  
-   - Open [phpMyAdmin](http://localhost/phpmyadmin)  
-   - Create a new database (e.g., `internportal_db`)  
-   - Import the `database.sql` file from the project folder
-
-4. **Update database connection** in your PHP files if needed (`config.php` or similar).
 
 5. **Open the project in a browser**:  
     - http://localhost/internportal
