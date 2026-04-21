@@ -1,4 +1,4 @@
-# InternPortal
+# InternPortal-
 
 InternPortal is a web application where mentors assign projects and interns submit their work. It’s simple, fast, and easy to set up locally.
 
